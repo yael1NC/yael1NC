@@ -16,12 +16,14 @@ Objectif : devenir **Analyste SOC**, puis évoluer vers des fonctions de **RSSI*
 - Analyse de trafic (Wireshark)
 - Durcissement de postes et contrôle d'accès
 - CTF (Hackagou, TryHackMe)
+  
 **Réseaux & Systèmes**
 - TCP/IP, modèle OSI, routage, VLAN, sécurité réseau
 - Cisco Packet Tracer, GNS3
 - Linux (Ubuntu / Debian), scripting Bash
 - Windows Server, Microsoft Intune
 - Docker, VirtualBox
+  
 **Développement**
 - Python, C, Java
 - Web : HTML, CSS, JavaScript
