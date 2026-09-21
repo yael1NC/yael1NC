@@ -51,9 +51,11 @@ Objectif : devenir **Analyste SOC**, puis évoluer vers des fonctions de **RSSI*
  
 **Master Cybersécurité** — Université de Caen Normandie & ENSICAEN *(2026–2028, en cours)*
 - Cryptographie, sécurité des réseaux, programmation, hacking éthique
+  
 **Licence Informatique** — Université de la Nouvelle-Calédonie *(2024–2026)*
 - Mention Très Bien
 - Développement, bases de données, systèmes & réseaux, architecture des ordinateurs, algorithmique, mathématiques discrètes, probabilités et statistiques
+  
 **Baccalauréat** — Lycée Dick Ukeiwë *(2021–2023)*
 - Mention Assez Bien — Spécialités NSI & Mathématiques, option Maths expertes
 ---
