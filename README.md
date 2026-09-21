@@ -1,77 +1,70 @@
-**Étudiant en cybersécurité** | 3ème année de Licence Informatique | Nouvelle-Calédonie
-
-Passionné par la cybersécurité, l'administration système et les réseaux. Mon objectif : devenir ingénieur en cybersécurité.
-
+**Étudiant en Master 1 Cybersécurité** | Université de Caen Normandie & ENSICAEN | Caen, France
+ 
+Passionné par la cybersécurité défensive, l'administration système et les réseaux.
+Objectif : devenir **Analyste SOC**, puis évoluer vers des fonctions de **RSSI**.
+ 
+🔎 **En recherche d'un stage de M1 en cybersécurité** — 2 à 4 mois à partir de mi-avril 2027
+ 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/yael1)
-
+ 
 ---
-
-## Domaines d'expertise
-
+ 
+## Compétences
+ 
 **Cybersécurité**
-- Analyse de trafic réseau (Nmap, Wireshark)
-- Participation aux CTF (Hackagou)
-- Tests et environnements cyber
-
+- Reconnaissance et cartographie réseau (Nmap)
+- Analyse de trafic (Wireshark)
+- Durcissement de postes et contrôle d'accès
+- CTF (Hackagou, TryHackMe)
 **Réseaux & Systèmes**
-- TCP/IP, routage, VLAN, sécurité réseau
-- Linux (Ubuntu/Debian), scripting Bash
-- Windows Server, Docker, VirtualBox
-
+- TCP/IP, modèle OSI, routage, VLAN, sécurité réseau
+- Cisco Packet Tracer, GNS3
+- Linux (Ubuntu / Debian), scripting Bash
+- Windows Server, Microsoft Intune
+- Docker, VirtualBox
 **Développement**
 - Python, C, Java
 - Web : HTML, CSS, JavaScript
 - Bases de données : SQL
-- Outils : Git/GitHub
-
+- Outils : Git / GitHub
 ---
-
+ 
 ## Expérience
-
-**Stage Cybersécurité - ISEE NC** *(12 semaines)*
-- Sécurisation des réseaux (chiffrement, contrôle d'accès)
-- Durcissement des terminaisons et sécurité des ports
-- Intégration Intune et gestion des politiques de conformité
-- Détection des ports inutilisés
-
+ 
+**Stage Cybersécurité — ISEE NC** (Institut de la Statistique et des Études Économiques) *· 12 semaines · 2025*
+- Sécurisation des réseaux : chiffrement et contrôle d'accès
+- Durcissement des terminaisons, sécurité des ports et détection des ports inutilisés
+- Intégration Intune : politiques de conformité, accès conditionnels et surveillance du parc
 ---
-
-## Projets & Initiatives
-
-- **CTF Hackagou** : Participation régulière aux compétitions
-- **Modding JBEAM** : Création et modification de véhicules via fichiers JBEAM
-- **Environnements de test** : Création d'environnements pour tester des outils cyber
-- **Analyse financière** : Gestion d'un portefeuille personnel et analyse de marchés
-
+ 
+## Projets
+ 
+- **Implémentation sécurisée du chiffrement RSA** — Projet tutoré de Licence : implémentation de RSA et étude des écarts entre cryptographie théorique et implémentation robuste (génération et gestion des clés, choix des paramètres, failles d'implémentation).
+- **Modding de véhicules (JBEAM)**
+- **CTF Hackagou** — 2 participations : 43ᵉ/71 en 2023, 19ᵉ/78 en 2025
+- **Laboratoires de test** — Environnements virtualisés pour tester des outils de sécurité
 ---
-
+ 
 ## Formation
-
-**Université de la Nouvelle-Calédonie** *(2024-2026)*
-- Licence Informatique TREC 5
-- Matières : Développement, Bases de données, Systèmes & Réseaux, Architecture des ordinateurs, Algorithmique, Mathématiques discrètes, Probabilités et statistiques
-
-**Lycée Dick Ukeiwë** *(2021-2023)*
-- Baccalauréat mention Assez Bien
-- Spécialités NSI & Mathématiques (Maths expertes)
-
+ 
+**Master Cybersécurité** — Université de Caen Normandie & ENSICAEN *(2026–2028, en cours)*
+- Cryptographie, sécurité des réseaux, programmation, hacking éthique
+**Licence Informatique** — Université de la Nouvelle-Calédonie *(2024–2026)*
+- Mention Très Bien
+- Développement, bases de données, systèmes & réseaux, architecture des ordinateurs, algorithmique, mathématiques discrètes, probabilités et statistiques
+**Baccalauréat** — Lycée Dick Ukeiwë *(2021–2023)*
+- Mention Assez Bien — Spécialités NSI & Mathématiques, option Maths expertes
 ---
-
-## Langues
-
-- Français : Natif
-- Anglais : B1+
-- Espagnol : B1
-
+ 
+## Certifications & langues
+ 
+- SecNumAcadémie (MOOC ANSSI)
+- Français : natif · Anglais : B2 · Espagnol : B1
 ---
+ 
+## En dehors du terminal
 
-## En dehors du code
-
-Quand je ne suis pas devant un terminal :
 - Chasse sous-marine
-- Voyages (Australie, USA, France)
-- Analyse des marchés financiers
-
----
-
-*Rigoureux, méthodique et curieux - toujours en veille sur les nouvelles technologies et vulnérabilités.*
+- Voyages (Australie, États-Unis, France)
+- Suivi des marchés financiers
+ 
