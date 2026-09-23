@@ -6,6 +6,7 @@ Objectif : devenir **Analyste SOC**, puis évoluer vers des fonctions de **RSSI*
 🔎 **En recherche d'un stage de M1 en cybersécurité** — 2 à 4 mois à partir de mi-avril 2027
  
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/yael1)
+
 [![Root-Me](https://img.shields.io/badge/Root--Me-Profile-E00034?style=for-the-badge&logo=rootme&logoColor=white)](https://www.root-me.org/yael1NC)
 
 ---
