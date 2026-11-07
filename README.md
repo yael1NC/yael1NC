@@ -55,6 +55,8 @@ Objectif : devenir **Analyste SOC**, puis évoluer vers des fonctions de **RSSI*
 ## Certifications
 
 - **eJPT** (eLearnSecurity Junior Penetration Tester) - INE Security, 2026
+<img src="Badge_eJPT.png" alt="eJPT - INE Security" width="130">
+
 - **MOOC SecNumAcadémie** - ANSSI
 - **Pix** - 615 points
 
